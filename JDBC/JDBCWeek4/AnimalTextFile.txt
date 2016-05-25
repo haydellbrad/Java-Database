@@ -1,0 +1,43 @@
+Common Name: Baboon
+Group: Mammal
+Skin Type: Hair
+Diet: Omnivore
+Life Span: 15 - 40 years
+
+Common Name: Camel
+Group: Mammal
+Skin: Hair
+Diet: Herbivore
+Life Span: 40-50 years
+
+Common Name: Alligator
+Group: Reptile
+Skin: Scales
+Diet: Carnivore
+Life Span: 30-60 years
+
+Common Name: Frog
+Group: Amphibian
+Skin: Skin
+Diet: Omnivore
+Life Span: 1-8 years
+
+Common Name: Quail
+Group: Bird
+Skin: Feathers
+Diet: Omnivore
+Life Span: 3-5 years
+
+Common Name: Rabbit
+Group: Mammal
+Skin: Fur
+Diet: Herbivore
+Life Span: 4-8 years
+
+Common Name: Stingray
+Group: Fish 
+Skin: Scales
+Diet: Carnivore
+Life Span: 15-25 years
+
+
